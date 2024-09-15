@@ -2,7 +2,7 @@
 
 ##### SET FOLLOWING VARS #####
 SERVER_ADDR="0.0.0.0"
-SERVER_PORT=7867
+SERVER_PORT=7868
 CLI_ARGS="--cuda-malloc"
 clone_dir="forge"
 venv_dir="venv"
